@@ -1,0 +1,29 @@
+{
+  "name": "Mitigation_ReducedSectoralCBs",
+  "data": [
+    {
+      "seriesName": "INDCO2N",
+      "seriesValues": [[2030, 165.012315319908]]
+    },
+    {
+      "seriesName": "INDCO2P",
+      "seriesValues": [[2030, 179.983143184706]]
+    },
+    {
+      "seriesName": "PWRCO2N",
+      "seriesValues": [[2030, 8606.349222792]]
+    },
+    {
+      "seriesName": "RSDCO2",
+      "seriesValues": [[2026, 835.240295265028]]
+    },
+    {
+      "seriesName": "SRVCO2N",
+      "seriesValues": [[2021, 776.718054701709]]
+    },
+    {
+      "seriesName": "TRACO2N",
+      "seriesValues": [[2021, 747.020041276711]]
+    }
+  ]
+}
