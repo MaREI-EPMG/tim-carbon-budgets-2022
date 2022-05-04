@@ -1,0 +1,17 @@
+{
+  "name": "Mitigation_ReducedSectoralCBs-LED_Halfway",
+  "data": [
+    {
+      "seriesName": "R-RTFT-Det_Deep",
+      "seriesValues": [
+        [2025, 21.7030368924653],
+        [2026, 95.3772900204317],
+        [2027, 14.6350408641121]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Det_Shallow",
+      "seriesValues": [[2026, 79.5813843479628]]
+    }
+  ]
+}

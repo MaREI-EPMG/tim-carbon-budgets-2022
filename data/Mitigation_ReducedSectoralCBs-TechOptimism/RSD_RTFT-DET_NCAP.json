@@ -1,0 +1,13 @@
+{
+  "name": "Mitigation_ReducedSectoralCBs-TechOptimism",
+  "data": [
+    {
+      "seriesName": "R-RTFT-Det_Deep",
+      "seriesValues": [[2026, 117.080326912897]]
+    },
+    {
+      "seriesName": "R-RTFT-Det_Shallow",
+      "seriesValues": [[2041, 0.385460669347363]]
+    }
+  ]
+}

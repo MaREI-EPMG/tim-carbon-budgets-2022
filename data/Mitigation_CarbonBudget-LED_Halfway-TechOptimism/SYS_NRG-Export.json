@@ -1,0 +1,14 @@
+{
+  "name": "Mitigation_CarbonBudget-LED_Halfway-TechOptimism",
+  "data": [
+    {
+      "seriesName": "SEAI_ELECTRICITY",
+      "seriesValues": [
+        [2018, 5.938364141177042],
+        [2030, 0.013128113182443],
+        [2031, 1.05641230808449],
+        [2050, 4.219129564623471]
+      ]
+    }
+  ]
+}

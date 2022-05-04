@@ -1,0 +1,12 @@
+{
+  "name": "Mitigation_ReducedCarbonBudget-TechOptimism",
+  "data": [
+    {
+      "seriesName": "R-RTFT-Det_Deep",
+      "seriesValues": [
+        [2026, 117.080326912897],
+        [2027, 14.6350408641121]
+      ]
+    }
+  ]
+}

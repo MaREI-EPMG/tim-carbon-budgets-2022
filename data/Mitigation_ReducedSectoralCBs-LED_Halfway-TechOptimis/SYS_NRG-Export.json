@@ -1,0 +1,13 @@
+{
+  "name": "Mitigation_ReducedSectoralCBs-LED_Halfway-TechOptimis",
+  "data": [
+    {
+      "seriesName": "SEAI_ELECTRICITY",
+      "seriesValues": [
+        [2018, 5.938364141177042],
+        [2031, 1.2995900889871999],
+        [2050, 6.203843784111966]
+      ]
+    }
+  ]
+}
