@@ -2,8 +2,8 @@
   "name": "Mitigation_SectoralCBs",
   "data": [
     {
-      "seriesName": "PWRCO2N",
-      "seriesValues": [[2030, 8012.10914548778]]
+      "seriesName": "RSDCO2",
+      "seriesValues": [[2026, 1854.69176309562]]
     },
     {
       "seriesName": "SRVCO2N",
@@ -11,7 +11,10 @@
     },
     {
       "seriesName": "TRACO2N",
-      "seriesValues": [[2021, 747.020041276711]]
+      "seriesValues": [
+        [2021, 747.020041276714],
+        [2030, 3027.42240007381]
+      ]
     }
   ]
 }

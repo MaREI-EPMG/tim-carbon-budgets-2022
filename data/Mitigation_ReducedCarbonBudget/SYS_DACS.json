@@ -3,11 +3,11 @@
   "data": [
     {
       "seriesName": "AGRCO2N",
-      "seriesValues": [[2030, 356.147754306442]]
+      "seriesValues": [[2030, 350.893756278756]]
     },
     {
       "seriesName": "INDCO2N",
-      "seriesValues": [[2030, 3270.91656101953]]
+      "seriesValues": [[2030, 3300.39911120706]]
     },
     {
       "seriesName": "INDCO2P",
@@ -15,20 +15,20 @@
     },
     {
       "seriesName": "RSDCO2",
-      "seriesValues": [[2030, 2619.39767372632]]
+      "seriesValues": [[2030, 3891.00147235195]]
     },
     {
       "seriesName": "SRVCO2N",
       "seriesValues": [
         [2021, 776.718054701709],
-        [2030, 490.743733357376]
+        [2030, 982.18923264828]
       ]
     },
     {
       "seriesName": "TRACO2N",
       "seriesValues": [
-        [2021, 747.020041276711],
-        [2030, 2703.07365227924]
+        [2021, 747.020041276714],
+        [2030, 4509.65270643609]
       ]
     }
   ]
