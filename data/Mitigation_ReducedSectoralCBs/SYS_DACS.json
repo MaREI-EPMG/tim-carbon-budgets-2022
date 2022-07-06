@@ -2,30 +2,31 @@
   "name": "Mitigation_ReducedSectoralCBs",
   "data": [
     {
+      "seriesName": "SRVCO2N",
+      "seriesValues": [[2021, 776.718054701709]]
+    },
+    {
+      "seriesName": "TRACO2N",
+      "seriesValues": [
+        [2021, 747.020041276713],
+        [2030, 6808.70576016965]
+      ]
+    },
+    {
+      "seriesName": "RSDCO2",
+      "seriesValues": [[2026, 2091.88126500656]]
+    },
+    {
       "seriesName": "INDCO2N",
-      "seriesValues": [[2030, 3304.97643151465]]
+      "seriesValues": [[2030, 3280.80922821235]]
     },
     {
       "seriesName": "INDCO2P",
       "seriesValues": [[2030, 179.983143184706]]
     },
     {
-      "seriesName": "RSDCO2",
-      "seriesValues": [[2026, 3694.06369790332]]
-    },
-    {
-      "seriesName": "SRVCO2N",
-      "seriesValues": [
-        [2021, 776.718054701709],
-        [2030, 413.904877041086]
-      ]
-    },
-    {
-      "seriesName": "TRACO2N",
-      "seriesValues": [
-        [2021, 747.020041276714],
-        [2030, 5452.30924500268]
-      ]
+      "seriesName": "PWRCO2N",
+      "seriesValues": [[2030, 208.677462829497]]
     }
   ]
 }

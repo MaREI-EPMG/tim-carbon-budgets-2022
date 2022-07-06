@@ -2,10 +2,6 @@
   "name": "No_Mitigation",
   "data": [
     {
-      "seriesName": "TRABJK",
-      "seriesValues": [[2021, 0.022716049382716]]
-    },
-    {
       "seriesName": "TRAKER",
       "seriesValues": [
         [2018, 0.233493200286579],
@@ -42,6 +38,10 @@
         [2049, 0.209567198177677],
         [2050, 0.209090909090909]
       ]
+    },
+    {
+      "seriesName": "TRABJK",
+      "seriesValues": [[2021, 0.022716049382716]]
     }
   ]
 }

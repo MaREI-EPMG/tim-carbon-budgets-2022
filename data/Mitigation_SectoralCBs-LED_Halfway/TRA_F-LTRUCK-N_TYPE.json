@@ -36,10 +36,6 @@
       ]
     },
     {
-      "seriesName": "DMD_TRA-F-LTRUCK-HEV",
-      "seriesValues": [[2024, 5.79965746725778]]
-    },
-    {
       "seriesName": "DMD_TRA-F-LTRUCK-ICE",
       "seriesValues": [
         [2020, 20.928],
@@ -54,6 +50,10 @@
         [2024, 3.77088974327514],
         [2025, 0.726776746331029]
       ]
+    },
+    {
+      "seriesName": "DMD_TRA-F-LTRUCK-HEV",
+      "seriesValues": [[2024, 5.79965746725778]]
     }
   ]
 }

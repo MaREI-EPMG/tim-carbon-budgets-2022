@@ -2,12 +2,26 @@
   "name": "Mitigation_ReducedCarbonBudget",
   "data": [
     {
+      "seriesName": "SRVCO2N",
+      "seriesValues": [
+        [2021, 776.718054701709],
+        [2030, 865.180788192123]
+      ]
+    },
+    {
+      "seriesName": "TRACO2N",
+      "seriesValues": [
+        [2021, 747.020041276713],
+        [2030, 4943.88788343051]
+      ]
+    },
+    {
       "seriesName": "AGRCO2N",
-      "seriesValues": [[2030, 350.893756278756]]
+      "seriesValues": [[2030, 351.069751264313]]
     },
     {
       "seriesName": "INDCO2N",
-      "seriesValues": [[2030, 3300.39911120706]]
+      "seriesValues": [[2030, 3271.17219925545]]
     },
     {
       "seriesName": "INDCO2P",
@@ -15,21 +29,7 @@
     },
     {
       "seriesName": "RSDCO2",
-      "seriesValues": [[2030, 3891.00147235195]]
-    },
-    {
-      "seriesName": "SRVCO2N",
-      "seriesValues": [
-        [2021, 776.718054701709],
-        [2030, 982.18923264828]
-      ]
-    },
-    {
-      "seriesName": "TRACO2N",
-      "seriesValues": [
-        [2021, 747.020041276714],
-        [2030, 4509.65270643609]
-      ]
+      "seriesValues": [[2030, 3690.58736506135]]
     }
   ]
 }
