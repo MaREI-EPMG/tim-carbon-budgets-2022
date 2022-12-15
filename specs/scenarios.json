@@ -112,6 +112,15 @@
     ]
   },
   {
+    "name": "Mitigation_15ySectoral_noCCS",
+    "variants": [
+      {
+        "name": "Mitigation_15ySectoral_noCCS",
+        "specs": null
+      }
+    ]
+  },
+  {
     "name": "Mitigation_ReducedCarbonBudget-LED_Halfway-TechOptimism",
     "variants": [
       {
