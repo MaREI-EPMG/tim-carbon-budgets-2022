@@ -17,5 +17,6 @@
   "Mitigation_CarbonBudget-LED_Halfway-TechOptimism": "Whole System CB (HL-TO)",
   "Mitigation_ReducedCarbonBudget-LED_Halfway-TechOptimism": "Reduced System CB (HL-TO)",
   "Mitigation_Baseline": "Baseline",
+  "Mitigation_15y_sectoral": "15y sectoral CB",
   "Mitigation_Electrification": "Electrification"
 }

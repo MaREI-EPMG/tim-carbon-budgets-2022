@@ -103,6 +103,15 @@
     ]
   },
   {
+    "name": "Mitigation_15y_sectoral",
+    "variants": [
+      {
+        "name": "Mitigation_15y_sectoral",
+        "specs": null
+      }
+    ]
+  },
+  {
     "name": "Mitigation_ReducedCarbonBudget-LED_Halfway-TechOptimism",
     "variants": [
       {
